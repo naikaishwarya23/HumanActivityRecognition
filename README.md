@@ -59,5 +59,5 @@ This project implements a machine learning pipeline for human activity recogniti
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/human-activity-recognition.git
-   cd human-activity-recognition
+   git clone https://github.com/naikaishwarya23/HumanActivityRecognition.git
+   cd HumanActivityRecognition
